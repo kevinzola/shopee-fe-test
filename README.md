@@ -15,4 +15,4 @@
 	4. Jalankan : docker build -t kevinzola/shopee-test .
 	5. Jalanlan : docker run -p 3000:3000 -d kevinzola/shopee-test //Run Program di port 3000
 	6. Jalankan : docker logs <CONTAINER_ID> //Untuk check apakah build image docker berhasil
-	7. Buka localhost:3000 untuk melihat program
+	7. Buka localhost:3000 pada browser untuk melihat program
